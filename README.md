@@ -29,7 +29,7 @@
   <h3>Platforms & Languages</h3>
   <table>
     <tr>
-      <th>Lang</th>
+      <th>Language</th>
       <th>
         <img src="https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=Oracle&logoColor=white" alt="C">
         <img src="https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=Oracle&logoColor=white" alt="C++">
@@ -39,11 +39,10 @@
       </th>
     </tr>
     <tr>
-      <th>Lib</th>
+      <th>Platform</th>
       <th>
-        <img src="https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white" alt="Spring">
-        <img src="https://img.shields.io/badge/FastAPI-009688.svg?&style=for-the-badge&logo=Fastapi&logoColor=white" alt="FastAPI">
-        <img src="https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=white" alt="React">
+        <img src="https://img.shields.io/badge/Google Colab-F9AB00.svg?&style=for-the-badge&logo=Spring&logoColor=white" alt="Spring">
+        <img src="https://img.shields.io/badge/PyTorch-009688.svg?&style=for-the-badge&logo=Fastapi&logoColor=white" alt="PyTorch">
       </th>
     </tr>
     <tr>
