@@ -31,9 +31,9 @@
     <tr>
       <th>Language</th>
       <th>
-        <img src="https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=Oracle&logoColor=white" alt="C">
-        <img src="https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=Oracle&logoColor=white" alt="C++">
-        <img src="https://img.shields.io/badge/Java-F80000.svg?&style=for-the-badge&logo=Oracle&logoColor=white" alt="Java">
+        <img src="https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=white" alt="C">
+        <img src="https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=C++&logoColor=white" alt="C++">
+        <img src="https://img.shields.io/badge/Java-F80000.svg?&style=for-the-badge&logo=Java&logoColor=white" alt="Java">
         <img src="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white" alt="Python">
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white" alt="JavaScript">
       </th>
@@ -41,15 +41,15 @@
     <tr>
       <th>Platform</th>
       <th>
-        <img src="https://img.shields.io/badge/Google Colab-F9AB00.svg?&style=for-the-badge&logo=Spring&logoColor=white" alt="Google Colab">
-        <img src="https://img.shields.io/badge/VSCODE-F9AB00.svg?&style=for-the-badge&logo=Spring&logoColor=white" alt="VSCODE">
+        <img src="https://img.shields.io/badge/Google Colab-F9AB00.svg?&style=for-the-badge&logo=Google Colab&logoColor=white" alt="Google Colab">
+        <img src="https://img.shields.io/badge/VSCODE-F9AB00.svg?&style=for-the-badge&logo=VSCODE&logoColor=white" alt="VSCODE">
       </th>
     </tr>
     <tr>
       <th>Framework</th>
       <th>
-        <img src="https://img.shields.io/badge/PyTorch-009688.svg?&style=for-the-badge&logo=Fastapi&logoColor=white" alt="PyTorch">
-        <img src="https://img.shields.io/badge/Pandas-150458.svg?&style=for-the-badge&logo=Fastapi&logoColor=white" alt="PyTorch">
+        <img src="https://img.shields.io/badge/PyTorch-009688.svg?&style=for-the-badge&logo=PyTorch&logoColor=white" alt="PyTorch">
+        <img src="https://img.shields.io/badge/Pandas-150458.svg?&style=for-the-badge&logo=Pandas&logoColor=white" alt="PyTorch">
       </th>
     </tr>
   </table>
