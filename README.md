@@ -5,7 +5,7 @@
 </div>
 <div>
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=100&vCenter=true&random=false&width=800&color=%31363F&lines=Early bird can't catch a worm if the worms are sleeping.;Don't be Diligent.;Be Smart.&multiline=true" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=100&vCenter=true&random=false&height=200&width=800&color=%31363F&lines=Early bird can't catch a worm if the worms are sleeping.;Don't be Diligent.;Be Smart.&multiline=true" alt="Typing SVG" />
   </a>
 </div>
 <br>
