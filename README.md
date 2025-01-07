@@ -5,7 +5,7 @@
 </div>
 <div>
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=100&vCenter=true&random=false&height=200&width=800&color=%31363F&lines=Early+bird+can't+catch+a+worm+if+the+worms+are+sleeping.;Don't+be+Diligent.;Be+Smart.&multiline=true" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=100&vCenter=true&random=false&height=200&width=800&color=%31363F&lines=Early+bird+can't+catch+a+worm+if+the+worms+are+sleeping.;Don't+be+Diligent.;Be+Smart.&multiline=true&repeat=false" alt="Typing SVG" />
   </a>
 </div>
 <br>
@@ -15,6 +15,36 @@
   <a href="https://github.com/devxb/gitanimals">
     <img src="https://render.gitanimals.org/lines/{kimbabZIP}?pet-id=1" width="1000" height="120"/>
   </a>
+</div>
+<br>
+
+<div align="center">
+  <h2>Welcome</h3>
+  <p>저는 모험적인 개발자가 꿈인 2002년생 <strong>박윤수</strong>입니다.<br>조선대학교 컴퓨터공학과 21학번이며 경영학과를 복수전공 하고 있습니다.<br>저는 코드를 짜는 개발자 보다는 방법을 찾아내는 개발자가 되고 싶습니다. 여기에 저에 대한 것들을 적어봤습니다.</p>
+  
+  <h3>취미</h3>
+  <ul>
+    <li>🥋 운동</li>
+    <li>🎸 음악</li>
+    <li>📰 뉴스 읽기</li>
+    <li>📈 주식 투자</li>
+    <li>🎬 영화 시청</li>
+  </ul>
+
+  <h3>좋아하는 것</h3>
+  <ul>
+    <li>🍔 햄버거</li>
+    <li>🐦 동물(특히 새)</li>
+    <li>🤵 일론 머스크</li>
+    <li>🔨 논쟁</li>
+  </ul>
+
+  <h3>싫어하는 것</h3>
+  <ul>
+    <li>🥒 오이</li>
+    <li>🦟 벌레</li>
+    <li>👥 오만한 사람</li>
+  </ul>
 </div>
 <br>
 
