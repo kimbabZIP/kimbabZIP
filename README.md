@@ -41,8 +41,8 @@
     <tr>
       <th>Platform</th>
       <th>
-        <img src="https://img.shields.io/badge/Google Colab-F9AB00.svg?&style=for-the-badge&logo=Spring&logoColor=white" alt="Spring">
-        <img src="https://img.shields.io/badge/VSCODE-F9AB00.svg?&style=for-the-badge&logo=Spring&logoColor=white" alt="Spring">
+        <img src="https://img.shields.io/badge/Google Colab-F9AB00.svg?&style=for-the-badge&logo=Spring&logoColor=white" alt="Google Colab">
+        <img src="https://img.shields.io/badge/VSCODE-F9AB00.svg?&style=for-the-badge&logo=Spring&logoColor=white" alt="VSCODE">
       </th>
     </tr>
     <tr>
