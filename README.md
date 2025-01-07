@@ -11,7 +11,7 @@
 <br>
 
 <div align="center">
-  <h3>소개</h3>
+  <h3></h3>
   <a href="https://github.com/devxb/gitanimals">
     <img src="https://render.gitanimals.org/lines/{kimbabZIP}?pet-id=1" width="1000" height="120"/>
   </a>
@@ -19,7 +19,7 @@
 <br>
 
 <div align="center">
-  <h3>기술 스택</h3>
+  <h3>tech stack</h3>
   <img src="https://github-readme-stats.vercel.app/api?username=kimbabZIP&show_icons=true&theme=catppuccino" height="150">
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dragond" height="150">
 </div>
@@ -42,19 +42,15 @@
       <th>Platform</th>
       <th>
         <img src="https://img.shields.io/badge/Google Colab-F9AB00.svg?&style=for-the-badge&logo=Spring&logoColor=white" alt="Spring">
+        <img src="https://img.shields.io/badge/VSCODE-F9AB00.svg?&style=for-the-badge&logo=Spring&logoColor=white" alt="Spring">
+      </th>
+    </tr>
+    <tr>
+      <th>Framework</th>
+      <th>
         <img src="https://img.shields.io/badge/PyTorch-009688.svg?&style=for-the-badge&logo=Fastapi&logoColor=white" alt="PyTorch">
-      </th>
-    </tr>
-    <tr>
-      <th>DB</th>
-      <th>
-        <img src="https://img.shields.io/badge/SQL-FF9900.svg?&style=for-the-badge&logo=AWS&logoColor=white" alt="AWS">
-      </th>
-    </tr>
-    <tr>
-      <th>Infra</th>
-      <th>
-        <img src="https://img.shields.io/badge/AWS-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white" alt="MySQL">
+        <img src="https://img.shields.io/badge/Pandas-150458.svg?&style=for-the-badge&logo=Fastapi&logoColor=white" alt="PyTorch">
+        <img src="https://img.shields.io/badge/PyTorch-009688.svg?&style=for-the-badge&logo=Fastapi&logoColor=white" alt="PyTorch">
       </th>
     </tr>
   </table>
