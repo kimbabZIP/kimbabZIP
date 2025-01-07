@@ -5,7 +5,7 @@
 </div>
 <div>
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&vCenter=true&random=false&width=435&color=%31363F&lines=Keep+your+eyes+on+the+stars;and;+your+feet+on+the+ground." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&vCenter=true&random=false&width=435&color=%31363F&lines=Early bird can't catch a worm if the worms are sleeping.;Don't be Diligent.;Be Smart." alt="Typing SVG" />
   </a>
 </div>
 <br>
@@ -19,14 +19,14 @@
 <br>
 
 <div align="center">
-  <h3>tech stack</h3>
+  <h3>기술 스택</h3>
   <img src="https://github-readme-stats.vercel.app/api?username=kimbabZIP&show_icons=true&theme=catppuccino" height="150">
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dragond" height="150">
 </div>
 <br>
 
 <div align="center">
-  <h3>Platforms & Languages</h3>
+  <h3>개발 언어 및 프레임워크</h3>
   <table>
     <tr>
       <th>Language</th>
