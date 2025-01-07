@@ -50,7 +50,6 @@
       <th>
         <img src="https://img.shields.io/badge/PyTorch-009688.svg?&style=for-the-badge&logo=Fastapi&logoColor=white" alt="PyTorch">
         <img src="https://img.shields.io/badge/Pandas-150458.svg?&style=for-the-badge&logo=Fastapi&logoColor=white" alt="PyTorch">
-        <img src="https://img.shields.io/badge/PyTorch-009688.svg?&style=for-the-badge&logo=Fastapi&logoColor=white" alt="PyTorch">
       </th>
     </tr>
   </table>
@@ -59,55 +58,63 @@
 
 
 <div align="center">
-  <h3>참여 프로젝트</h3>
+  <h3>수상 경력</h3>
   <table>
     <tr>
-      <th>작업명</th>
-      <th>소속</th>
+      <th>대회명</th>
+      <th>연도</th>
+      <th>실적</th>
       <th>직무</th>
-      <th>상세</th>
-      <th>기간</th>
     </tr>
     <tr>
-      <td>NatureCatalogue</td>
-      <td>조선의봄</td>
-      <td>PM(FE)</td>
-      <td>giturl</td>
-      <td>23.06</td>
+      <td>2021 ICPC Seoul Regional</td>
+      <td>2021.11</td>
+      <td>40th (3 Solved)</td>
+      <td>Contestant</td>
     </tr>
     <tr>
-      <td>CloneCoding</td>
-      <td>Team_Fellis57</td>
-      <td>PM(BE)</td>
-      <td>giturl</td>
-      <td>24.03</td>
+      <td>2021 어부바 창업경진대회</td>
+      <td>2021.12</td>
+      <td>우수상 (코딩 시각화 WEB)</td>
+      <td>기획 및 발표</td>
     </tr>
     <tr>
-      <td>Voice_Survey</td>
-      <td>GIST&전남대&조선대</td>
-      <td>PM(BE)</td>
-      <td>giturl</td>
-      <td>24.03</td>
+      <td>2022 조선대학교 IT Festival</td>
+      <td>2022.12</td>
+      <td>금상 (폐기종 검출 AI)</td>
+      <td>기획 및 발표</td>
     </tr>
   </table>
  
-  <h3>자격증명</h3>
+  <h3>자격증</h3>
   <table>
     <tr>
       <th>자격증명</th>
       <th>취득날짜</th>
     </tr>
     <tr>
-      <td>정보처리산업기사</td>
-      <td>2020.08.28</td>
+      <td>COS Pro 1급</td>
+      <td>2022.09.17</td>
     </tr>
     <tr>
-      <td>정보처리기사</td>
-      <td>00</td>
+      <td>토익 880점</td>
+      <td>2023.11.26</td>
     </tr>
     <tr>
-      <td>빅데이터분석기사</td>
-      <td>00</td>
+      <td>매경TEST 우수</td>
+      <td>2024.02.24</td>
+    </tr>
+    <tr>
+      <td>TESAT 2급</td>
+      <td>2024.03.16</td>
+    </tr>
+    <tr>
+      <td>회계관리 2급</td>
+      <td>2024.04.05</td>
+    </tr>
+    <tr>
+      <td>SQLD</td>
+      <td>2024.09.20</td>
     </tr>
   </table>
 </div>
