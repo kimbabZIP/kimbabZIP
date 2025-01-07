@@ -31,6 +31,8 @@
     <tr>
       <th>Lang</th>
       <th>
+        <img src="https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=Oracle&logoColor=white" alt="C">
+        <img src="https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=Oracle&logoColor=white" alt="C++">
         <img src="https://img.shields.io/badge/Java-F80000.svg?&style=for-the-badge&logo=Oracle&logoColor=white" alt="Java">
         <img src="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white" alt="Python">
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white" alt="JavaScript">
