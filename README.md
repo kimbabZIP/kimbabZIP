@@ -1,6 +1,6 @@
 <div>
   <a href="https://hits.seeyoufarm.com">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fhttps%2F%2Fgithub.com%2Fscorve12&count_bg=%2376ABAE&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/>
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fhttps%2F%2Fgithub.com%2FkimbabZIP&count_bg=%2376ABAE&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/>
   </a>
 </div>
 <div>
@@ -13,14 +13,14 @@
 <div align="center">
   <h3>소개</h3>
   <a href="https://github.com/devxb/gitanimals">
-    <img src="https://render.gitanimals.org/lines/{scorve12}?pet-id=1" width="1000" height="120"/>
+    <img src="https://render.gitanimals.org/lines/{kimbabZIP}?pet-id=1" width="1000" height="120"/>
   </a>
 </div>
 <br>
 
 <div align="center">
   <h3>기술 스택</h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=scorve12&show_icons=true&theme=catppuccino" height="150">
+  <img src="https://github-readme-stats.vercel.app/api?username=kimbabZIP&show_icons=true&theme=catppuccino" height="150">
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=socrve5322" height="150">
 </div>
 <br>
