@@ -42,7 +42,7 @@
       <th>Platform</th>
       <th>
         <img src="https://img.shields.io/badge/Google Colab-F9AB00.svg?&style=for-the-badge&logo=Google Colab&logoColor=white" alt="Google Colab">
-        <img src="https://img.shields.io/badge/VSCODE-F9AB00.svg?&style=for-the-badge&logo=VSCODE&logoColor=white" alt="VSCODE">
+        <img src="https://img.shields.io/badge/VSCODE-003D8F.svg?&style=for-the-badge&logo=VSCODE&logoColor=white" alt="VSCODE">
       </th>
     </tr>
     <tr>
